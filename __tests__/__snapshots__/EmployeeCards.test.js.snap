@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee Card Details unit test testing app button 1`] = `
+<div
+  className="sc-bdvvtL foYwpu"
+>
+  <img
+    className="sc-dkPtRN crUyVz"
+    color="red"
+  />
+  <h1
+    className="sc-gsDKAQ jHDxkU"
+    color="red"
+  >
+    undefined undefined
+  </h1>
+  <p
+    className="sc-hKwDye higtsW"
+    color="red"
+  >
+    Product Manager
+  </p>
+  <div
+    className="sc-eCImPb gHFksy"
+  >
+    <div
+      className="sc-jRQBWg bMgbRf"
+    >
+      <p
+        className="sc-gKclnd jOkCew"
+      >
+        Employee Id :
+      </p>
+      <p
+        className="sc-iCfMLu iyLjXr"
+      >
+        123456
+      </p>
+    </div>
+    <div
+      className="sc-jRQBWg bMgbRf"
+    >
+      <p
+        className="sc-gKclnd jOkCew"
+      >
+        Email :
+      </p>
+      <p
+        className="sc-iCfMLu iyLjXr"
+      />
+    </div>
+    <div
+      className="sc-jRQBWg bMgbRf"
+    >
+      <p
+        className="sc-gKclnd jOkCew"
+      >
+        Mobile :
+      </p>
+      <p
+        className="sc-iCfMLu iyLjXr"
+      >
+        9003164637
+      </p>
+    </div>
+    <div
+      className="sc-jRQBWg bMgbRf"
+    >
+      <p
+        className="sc-gKclnd jOkCew"
+      >
+        Department :
+      </p>
+      <p
+        className="sc-iCfMLu iyLjXr"
+      >
+        Gigitech Com
+      </p>
+    </div>
+  </div>
+</div>
+`;

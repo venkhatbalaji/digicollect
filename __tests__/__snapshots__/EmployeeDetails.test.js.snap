@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee Details unit test testing app button 1`] = `
+<div
+  className="sc-furwcr jvxAQi"
+/>
+`;

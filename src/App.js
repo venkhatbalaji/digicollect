@@ -1,10 +1,10 @@
-import React from 'react';
-import '../assets/app.scss';
+import * as React from "react";
+import EmployeeDetails from './component/EmployeeDetails/EmployeeDetails';
 
 function App() {
     return (
-        <div>
-            {"Hello World"}
+        <div className='page'>
+            <EmployeeDetails />
         </div>
     )
 }
